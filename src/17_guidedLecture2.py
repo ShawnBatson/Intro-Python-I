@@ -42,3 +42,6 @@ def centered_average(num):
     final_sum = current_sum - max_num - min_num
     # divide the value by len(nums) -2
     return final_sum // (len(num) - 2)
+
+
+# look here later.
