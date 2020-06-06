@@ -28,7 +28,7 @@ print(cubes)
 
 a = ["foo", "bar", "baz"]
 
-y = [word.title() for word in a]
+y = [word.upper() for word in a]
 
 print(y)
 
